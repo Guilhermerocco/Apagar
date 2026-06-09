@@ -1,0 +1,6 @@
+{
+  "name": "CAC Tracker",
+  "description": "Calculadora e acompanhamento avançado de CAC para escolas, cursos e infoprodutos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
